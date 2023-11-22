@@ -1,8 +1,9 @@
-gradle-wrapper.jar
+# add comment for app center
+# gradle-wrapper.jar
+# /gradlew
+# /gradlew.bat
 /.gradle
 /captures/
-/gradlew
-/gradlew.bat
 /local.properties
 GeneratedPluginRegistrant.java
 
@@ -11,5 +12,3 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
-
-https://kenisha-jazlyn-tutorial.pbp.cs.ui.ac.id/login/?next=/
